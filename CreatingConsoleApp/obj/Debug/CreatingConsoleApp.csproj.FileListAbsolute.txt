@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\bin\Debug\CreatingConsoleApp.exe.config
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\bin\Debug\CreatingConsoleApp.exe
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\bin\Debug\CreatingConsoleApp.pdb
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\obj\Debug\CreatingConsoleApp.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\obj\Debug\CreatingConsoleApp.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\obj\Debug\CreatingConsoleApp.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\obj\Debug\CreatingConsoleApp.exe
+E:\Projects\Learning\C#\Udemy First Course\CreatingConsoleApp\obj\Debug\CreatingConsoleApp.pdb
