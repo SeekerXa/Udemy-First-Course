@@ -6,15 +6,12 @@ namespace ConsoleAppClassBasic
     {
         static void Main(string[] args)
         {
-            Account myAccount = new Account();
+            Account account1 = new Account("Patrk");
+            Account account2 = new Account("afsdfsaf");
 
-            Console.WriteLine($"Initial name is : {myAccount.Name}");
+            Console.WriteLine($"Acc1 name is : {account1.Name}");
 
-            Console.Write("Enter the name: ");
-            string theName = Console.ReadLine();
-            myAccount.Name = theName;
-
-            Console.WriteLine($"myAccount name is : {myAccount.Name}");
+            Console.WriteLine($"Acc2 name is : {account2.Name}");
         }
     }
 }
