@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\bin\Debug\StudentsClassAverage.exe.config
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\bin\Debug\StudentsClassAverage.exe
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\bin\Debug\StudentsClassAverage.pdb
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\obj\Debug\StudentsClassAverage.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\obj\Debug\StudentsClassAverage.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\obj\Debug\StudentsClassAverage.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\obj\Debug\StudentsClassAverage.exe
+E:\Projects\Learning\C#\Udemy First Course\StudentsClassAverage\obj\Debug\StudentsClassAverage.pdb

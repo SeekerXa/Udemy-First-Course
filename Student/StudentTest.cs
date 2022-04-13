@@ -12,6 +12,7 @@ namespace Student
            
             Console.WriteLine($"{student1.Name}'s letter grade equivalent of " + $"{student1.Average} is {student1.LetterGrade}");
             Console.WriteLine($"{student2.Name}'s letter grade equivalent of " + $"{student2.Average} is {student2.LetterGrade}");
+            
         }
     }
 }
