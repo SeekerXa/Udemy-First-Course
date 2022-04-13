@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\Analysis\bin\Debug\Analysis.exe.config
+E:\Projects\Learning\C#\Udemy First Course\Analysis\bin\Debug\Analysis.exe
+E:\Projects\Learning\C#\Udemy First Course\Analysis\bin\Debug\Analysis.pdb
+E:\Projects\Learning\C#\Udemy First Course\Analysis\obj\Debug\Analysis.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\Analysis\obj\Debug\Analysis.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\Analysis\obj\Debug\Analysis.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\Analysis\obj\Debug\Analysis.exe
+E:\Projects\Learning\C#\Udemy First Course\Analysis\obj\Debug\Analysis.pdb
