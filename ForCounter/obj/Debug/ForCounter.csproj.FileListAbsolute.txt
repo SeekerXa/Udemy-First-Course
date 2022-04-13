@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\bin\Debug\ForCounter.exe.config
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\bin\Debug\ForCounter.exe
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\bin\Debug\ForCounter.pdb
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\obj\Debug\ForCounter.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\obj\Debug\ForCounter.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\obj\Debug\ForCounter.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\obj\Debug\ForCounter.exe
+E:\Projects\Learning\C#\Udemy First Course\ForCounter\obj\Debug\ForCounter.pdb
