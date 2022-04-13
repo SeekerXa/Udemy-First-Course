@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\bin\Debug\InvestCalculation.exe.config
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\bin\Debug\InvestCalculation.exe
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\bin\Debug\InvestCalculation.pdb
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\obj\Debug\InvestCalculation.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\obj\Debug\InvestCalculation.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\obj\Debug\InvestCalculation.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\obj\Debug\InvestCalculation.exe
+E:\Projects\Learning\C#\Udemy First Course\InvestCalculation\obj\Debug\InvestCalculation.pdb
