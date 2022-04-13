@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\Increment\bin\Debug\Increment.exe.config
+E:\Projects\Learning\C#\Udemy First Course\Increment\bin\Debug\Increment.exe
+E:\Projects\Learning\C#\Udemy First Course\Increment\bin\Debug\Increment.pdb
+E:\Projects\Learning\C#\Udemy First Course\Increment\obj\Debug\Increment.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\Increment\obj\Debug\Increment.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\Increment\obj\Debug\Increment.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\Increment\obj\Debug\Increment.exe
+E:\Projects\Learning\C#\Udemy First Course\Increment\obj\Debug\Increment.pdb
