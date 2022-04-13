@@ -8,20 +8,32 @@ namespace StudentsClassAverage
         static void Main(string[] args)
         {
             int total = 0;
-            int gradeCounter = 1;
-            
-            while (gradeCounter <= 10)
+            int gradeCounter = 0;
+            int grade = 0;
+
+
+
+            while (grade != -1)
             {
-                Console.Write("Enter grade: ");
-                int grade = int.Parse(Console.ReadLine());
+
+               
+                Console.Write("Enter grade or -1 to quit: ");
+                grade = int.Parse(Console.ReadLine());
+                if (grade == -1) break;
                 total = total + grade;
                 gradeCounter++;
-
             }
 
-            int average = total / 10;
-            Console.WriteLine($"\nTotal of all 10 grades is {total} \nClasses Average is {average}");
+            if (gradeCounter != 0)
+            {
+                double average = (double)total / gradeCounter;
+                Console.WriteLine($"\nTotal of grades is {gradeCounter}\nGrades entered is {total} \nClasses Average is {average:F}");
+            }
+            else
+            {
+                Console.WriteLine("No grades were entered");
 
+            }
         }
     }
 }                                                                                                 
