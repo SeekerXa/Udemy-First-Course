@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\bin\Debug\BreakTest.exe.config
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\bin\Debug\BreakTest.exe
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\bin\Debug\BreakTest.pdb
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\obj\Debug\BreakTest.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\obj\Debug\BreakTest.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\obj\Debug\BreakTest.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\obj\Debug\BreakTest.exe
+E:\Projects\Learning\C#\Udemy First Course\BreakTest\obj\Debug\BreakTest.pdb
