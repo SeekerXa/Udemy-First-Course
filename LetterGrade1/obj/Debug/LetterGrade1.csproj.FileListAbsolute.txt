@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\bin\Debug\LetterGrade1.exe.config
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\bin\Debug\LetterGrade1.exe
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\bin\Debug\LetterGrade1.pdb
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\obj\Debug\LetterGrade1.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\obj\Debug\LetterGrade1.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\obj\Debug\LetterGrade1.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\obj\Debug\LetterGrade1.exe
+E:\Projects\Learning\C#\Udemy First Course\LetterGrade1\obj\Debug\LetterGrade1.pdb
