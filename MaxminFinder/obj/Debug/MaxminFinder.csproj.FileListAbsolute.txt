@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\bin\Debug\MaxminFinder.exe.config
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\bin\Debug\MaxminFinder.exe
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\bin\Debug\MaxminFinder.pdb
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\obj\Debug\MaxminFinder.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\obj\Debug\MaxminFinder.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\obj\Debug\MaxminFinder.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\obj\Debug\MaxminFinder.exe
+E:\Projects\Learning\C#\Udemy First Course\MaxminFinder\obj\Debug\MaxminFinder.pdb
