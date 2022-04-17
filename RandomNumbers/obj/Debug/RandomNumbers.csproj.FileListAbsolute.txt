@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\bin\Debug\RandomNumbers.exe
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\bin\Debug\RandomNumbers.pdb
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\obj\Debug\RandomNumbers.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\obj\Debug\RandomNumbers.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\obj\Debug\RandomNumbers.exe
+E:\Projects\Learning\C#\Udemy First Course\RandomNumbers\obj\Debug\RandomNumbers.pdb
