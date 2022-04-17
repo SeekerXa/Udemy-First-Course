@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\bin\Debug\DiceCrapsGame.exe.config
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\bin\Debug\DiceCrapsGame.exe
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\bin\Debug\DiceCrapsGame.pdb
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\obj\Debug\DiceCrapsGame.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\obj\Debug\DiceCrapsGame.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\obj\Debug\DiceCrapsGame.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\obj\Debug\DiceCrapsGame.exe
+E:\Projects\Learning\C#\Udemy First Course\DiceCrapsGame\obj\Debug\DiceCrapsGame.pdb
