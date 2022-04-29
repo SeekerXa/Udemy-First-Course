@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe.config
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\bin\Debug\RefAndOutParameters.pdb
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\obj\Debug\RefAndOutParameters.exe
+E:\Projects\Learning\C#\Udemy First Course\RefAndOutParameters\obj\Debug\RefAndOutParameters.pdb
