@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\bin\Debug\ArrayExamples.exe.config
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\bin\Debug\ArrayExamples.exe
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\bin\Debug\ArrayExamples.pdb
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\obj\Debug\ArrayExamples.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\obj\Debug\ArrayExamples.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\obj\Debug\ArrayExamples.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\obj\Debug\ArrayExamples.exe
+E:\Projects\Learning\C#\Udemy First Course\ArrayExamples\obj\Debug\ArrayExamples.pdb
