@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\bin\Debug\ArrayRolling.exe.config
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\bin\Debug\ArrayRolling.exe
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\bin\Debug\ArrayRolling.pdb
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\obj\Debug\ArrayExeption.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\obj\Debug\ArrayExeption.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\obj\Debug\ArrayExeption.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\obj\Debug\ArrayRolling.exe
+E:\Projects\Learning\C#\Udemy First Course\ArrayRolling\obj\Debug\ArrayRolling.pdb
