@@ -1,4 +1,4 @@
-﻿ using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,19 +10,28 @@ namespace DeckOfCards
     {
         static void Main(string[] args)
         {
+            var myDeckOfCards = new DeckOfCards();
+
+            for (int i = 0; i < 52; i++)
+            {
+                Console.Write($"{myDeckOfCards.DealCard(),-19}");
+                if ((i + 1) % 4 == 0)
+                    Console.WriteLine();
+            }
+
+            myDeckOfCards.Shuffle();
+            Console.Write("Suffling\n");
+
+            for (int i = 0; i < 52; i++)
+            {
+                Console.Write($"{myDeckOfCards.DealCard(),-19}");
+                if ((i + 1) % 4 == 0)
+                    Console.WriteLine();
+            }
+                                                                    
+
             Console.WriteLine(0 % 13);
-            Console.WriteLine(1 % 13);
-            Console.WriteLine(2 % 13);
-            Console.WriteLine(3 % 13);
-            Console.WriteLine(4 % 13);
-            Console.WriteLine(5 % 13);
-            Console.WriteLine(6 % 13);
-            Console.WriteLine(7 % 13);
-            Console.WriteLine(8 % 13);
-            Console.WriteLine(11 % 13);
-            Console.WriteLine(12 % 13);
-            Console.WriteLine(13 % 13);
-            Console.WriteLine(14 % 13);
+
 
         }
     }
