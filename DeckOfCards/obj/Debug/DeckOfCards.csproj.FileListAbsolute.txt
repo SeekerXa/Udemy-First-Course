@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\bin\Debug\DeckOfCards.exe
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\bin\Debug\DeckOfCards.pdb
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\obj\Debug\DeckOfCards.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\obj\Debug\DeckOfCards.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\obj\Debug\DeckOfCards.exe
+E:\Projects\Learning\C#\Udemy First Course\DeckOfCards\obj\Debug\DeckOfCards.pdb
