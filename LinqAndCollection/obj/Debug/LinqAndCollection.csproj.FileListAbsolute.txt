@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\bin\Debug\LinqAndCollection.exe.config
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\bin\Debug\LinqAndCollection.exe
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\bin\Debug\LinqAndCollection.pdb
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\obj\Debug\LinqAndCollection.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\obj\Debug\LinqAndCollection.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\obj\Debug\LinqAndCollection.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\obj\Debug\LinqAndCollection.exe
+E:\Projects\Learning\C#\Udemy First Course\LinqAndCollection\obj\Debug\LinqAndCollection.pdb
