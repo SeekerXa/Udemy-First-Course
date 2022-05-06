@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\bin\Debug\TimeExtensionTest.exe.config
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\bin\Debug\TimeExtensionTest.exe
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\bin\Debug\TimeExtensionTest.pdb
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\obj\Debug\TimeExtensionTest.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\obj\Debug\TimeExtensionTest.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\obj\Debug\TimeExtensionTest.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\obj\Debug\TimeExtensionTest.exe
+E:\Projects\Learning\C#\Udemy First Course\TimeExtensionTest\obj\Debug\TimeExtensionTest.pdb
