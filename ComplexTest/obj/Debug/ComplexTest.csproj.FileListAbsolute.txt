@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\bin\Debug\ComplexTest.exe.config
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\bin\Debug\ComplexTest.exe
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\bin\Debug\ComplexTest.pdb
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\obj\Debug\ComplexTest.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\obj\Debug\ComplexTest.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\obj\Debug\ComplexTest.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\obj\Debug\ComplexTest.exe
+E:\Projects\Learning\C#\Udemy First Course\ComplexTest\obj\Debug\ComplexTest.pdb
