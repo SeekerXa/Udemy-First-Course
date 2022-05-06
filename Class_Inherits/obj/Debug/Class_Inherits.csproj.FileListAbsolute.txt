@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\obj\Debug\Class_Inherits.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\obj\Debug\Class_Inherits.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\obj\Debug\Class_Inherits.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\bin\Debug\Class_Inherits.exe.config
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\bin\Debug\Class_Inherits.exe
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\bin\Debug\Class_Inherits.pdb
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\obj\Debug\Class_Inherits.exe
+E:\Projects\Learning\C#\Udemy First Course\Class_Inherits\obj\Debug\Class_Inherits.pdb
