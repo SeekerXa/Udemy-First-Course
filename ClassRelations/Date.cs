@@ -13,7 +13,13 @@ namespace ClassRelations
         public int Year { get; private set; }
 
 
-
+        public Date(int day, int month, int year)
+        {
+            Month = month;
+            Day = day;
+            Year = year;
+            Console.WriteLine($"Constructor {this} ");
+        }
 
 
 
@@ -36,7 +42,7 @@ namespace ClassRelations
                 if (value <= 0 || value > daysPerMonth[Month])
                 {
                     throw new ArgumentOutOfRangeException(
-                        nameof(value),value,$"{nameof(Day)} out of range current month/year");
+                        nameof(value), value, $"{nameof(Day)} out of range current month/year");
                 }
                 if (Month == 2 && value == 29 && !(Year % 400 == 0 || (Year % 4 == 0 && Year % 100 != 0)))
                 {
@@ -58,11 +64,14 @@ namespace ClassRelations
                 if (value < 0 || value > 12)
                 {
                     throw new ArgumentOutOfRangeException(
-                        nameof(value), value, $"{nameof(Month)} must be 1-12 " ;
+                        nameof(value), value, $"{nameof(Month)} must be 1-12 ");
                 }
                 month = value;
 
             }
         }
+
+        public override string ToString() => $"{Day}.{Month}.{Year}";
+
     }
 }

@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\obj\Debug\ClassRelations.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\obj\Debug\ClassRelations.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\obj\Debug\ClassRelations.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\bin\Debug\ClassRelations.exe.config
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\bin\Debug\ClassRelations.exe
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\bin\Debug\ClassRelations.pdb
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\obj\Debug\ClassRelations.exe
+E:\Projects\Learning\C#\Udemy First Course\ClassRelations\obj\Debug\ClassRelations.pdb
