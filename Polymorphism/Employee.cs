@@ -8,9 +8,9 @@ namespace Polymorphism
         public string SocialSecurityNumber { get; }
 
 
-        public Employee(string fisrtName, string lastName, string socialSecurityNumber)
+        public Employee(string firstName, string lastName, string socialSecurityNumber)
         {
-            FirstName = fisrtName;
+            FirstName = firstName;
             LastName = lastName;
             SocialSecurityNumber = socialSecurityNumber;
         }
