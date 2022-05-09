@@ -19,34 +19,6 @@ namespace Class_Inherits
         } 
         
 
-        public decimal GrossSales
-        {
-            get { return grossSales; }
-            set
-            {
-                if (value < 0)
-                {
-                    throw new ArgumentOutOfRangeException(nameof(value), value,
-                        $"{nameof(GrossSales)} must be >= 0");
-                }
-                grossSales = value;
-            }
-
-        }
-
-        public decimal CommisionRate
-        {
-            get { return commisionRate; }
-            set
-            {
-                if (value <= 0 || value >= 1)
-                {
-                    throw new ArgumentOutOfRangeException(nameof(value), value,
-                        $"{nameof(CommisionRate)} must be > 0 and < 1 ");
-                }
-                commisionRate = value;
-            }
-        }
 
         public decimal BaseSalary
         {
@@ -64,7 +36,7 @@ namespace Class_Inherits
 
 
 
-        public decimal Earnings() => BaseSalary + commisionRate * grossSales;
+        public decimal Earnings() => BaseSalary + base.Earnings();
         public override string ToString()
         {
             return $"Commission employee: {FirstName} {LastName}\n" +

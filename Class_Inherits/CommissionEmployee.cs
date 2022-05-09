@@ -57,7 +57,7 @@ namespace Class_Inherits
 
 
 
-        public decimal Earnings() => commisionRate * grossSales;
+        public decimal Earnings() => CommisionRate * GrossSales;
         public override string ToString()
         {
             return $"Commission employee: {FirstName} {LastName}\n" +
