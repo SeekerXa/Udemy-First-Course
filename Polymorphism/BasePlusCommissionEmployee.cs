@@ -35,7 +35,7 @@ namespace Polymorphism
 
         public override string ToString()
         {
-            return $"Worker {base.ToString()}" +
+            return $"Worker {base.ToString()}\n" +
                 $"base Salary: {baseSalary:C}";
         }
 

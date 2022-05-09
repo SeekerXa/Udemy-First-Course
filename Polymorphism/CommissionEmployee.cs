@@ -55,8 +55,8 @@ namespace Polymorphism
         public override string ToString()
         {
             return
-                $"commision emplote: {base.ToString()}" +
-                $"gross sales: {GrossSales:C}" +
+                $"commision employee: {base.ToString()}" +
+                $"gross sales: {GrossSales:C}\n" +
                 $"commision rate: {CommissionRate:F2}";
         }
 

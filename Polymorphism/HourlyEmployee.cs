@@ -61,7 +61,7 @@ namespace Polymorphism
         public override string ToString()
         {
             return $"hourly employee: {base.ToString()}" +
-                $"hourly wage: {HourlyWage:C}" +
+                $"hourly wage: {HourlyWage:C}\n" +
                 $"hours worked: {HoursWorked:F2}";
         }
 

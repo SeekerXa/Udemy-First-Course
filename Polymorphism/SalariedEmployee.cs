@@ -9,7 +9,7 @@ namespace Polymorphism
     public class SalariedEmployee: Employee
     {
         private decimal weeklySalary;
-        public SalariedEmployee(string firstName, string lastName, string socialSecurityNumber)
+        public SalariedEmployee(string firstName, string lastName, string socialSecurityNumber,decimal weeklySalary)
             : base(firstName, lastName, socialSecurityNumber)
         {
             WeeklySalary = weeklySalary;

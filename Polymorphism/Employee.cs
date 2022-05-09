@@ -17,7 +17,7 @@ namespace Polymorphism
 
         public override string ToString()
         {
-            return $"[{FirstName} {LastName}\n";
+            return $"{FirstName} {LastName}\n";
         }
 
         public abstract decimal Earnings();                                      
