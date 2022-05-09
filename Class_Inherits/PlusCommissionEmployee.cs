@@ -6,23 +6,18 @@ using System.Threading.Tasks;
 
 namespace Class_Inherits
 {
-    internal class CommissionEmployee 
+    internal class PlusCommissionEmployee : CommissionEmployee
     {
-        public String FirstName { get; }
-        public String LastName { get; }
-        public string SocialSecurityNumber { get; }
-        protected decimal grossSales;
-        protected decimal commisionRate;
-        
 
-        public CommissionEmployee(string firstName, string lastName, string sicialSecurityNumber, decimal grossSales, decimal commissionRate)
+        private decimal baseSalary;
+
+
+        public PlusCommissionEmployee(string firstName, string lastName, string sicialSecurityNumber, decimal grossSales, decimal commissionRate, decimal baseSalary)
+            : base(firstName, lastName, sicialSecurityNumber, grossSales, commissionRate)
         {
-            FirstName = firstName;
-            LastName = lastName;
-            SocialSecurityNumber = sicialSecurityNumber;
-            GrossSales = grossSales;
-            CommisionRate = commissionRate;        
-        }
+             BaseSalary = baseSalary;
+        } 
+        
 
         public decimal GrossSales
         {
@@ -53,24 +48,35 @@ namespace Class_Inherits
             }
         }
 
-       
+        public decimal BaseSalary
+        {
+            get { return baseSalary; }
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentOutOfRangeException(nameof(value), value,
+                        $"{nameof(BaseSalary)} must be > 0 ");
+                }
+                baseSalary = value;
+            }
+        }
 
 
 
-        public decimal Earnings() => commisionRate * grossSales;
+        public decimal Earnings() => BaseSalary + commisionRate * grossSales;
         public override string ToString()
         {
             return $"Commission employee: {FirstName} {LastName}\n" +
                 $"Social security number: {SocialSecurityNumber}\n" +
                 $"gross Sales: {grossSales:C}\n" +
-                $"commision rate: {commisionRate:F2}\n";
-              
+                $"commision rate: {commisionRate:F2}\n" +
+                $"base salary: {baseSalary:C}";
 
 
 
 
 
         }
-
     }
 }

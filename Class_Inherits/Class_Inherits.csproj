@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CommissionEmployee.cs" />
     <Compile Include="CommissionEmployeeTest.cs" />
+    <Compile Include="PlusCommissionEmployee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
