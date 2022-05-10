@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\bin\Debug\DevineByZeroException.exe.config
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\bin\Debug\DevineByZeroException.exe
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\bin\Debug\DevineByZeroException.pdb
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\obj\Debug\DevineByZeroException.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\obj\Debug\DevineByZeroException.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\obj\Debug\DevineByZeroException.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\obj\Debug\DevineByZeroException.exe
+E:\Projects\Learning\C#\Udemy First Course\DevineByZeroException\obj\Debug\DevineByZeroException.pdb
