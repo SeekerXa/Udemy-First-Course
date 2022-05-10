@@ -1,7 +1,7 @@
 ﻿
 namespace Polymorphism
 {
-    public abstract class Employee
+    public abstract class Employee  : IPayable
     {
         public string FirstName { get; }
         public string LastName { get; }
@@ -22,5 +22,9 @@ namespace Polymorphism
 
         public abstract decimal Earnings();                                      
 
+        public decimal GetPaymentAmount()
+        {
+            return Earnings();
+        }
     }
 }

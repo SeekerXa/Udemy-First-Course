@@ -6,3 +6,11 @@ E:\Projects\Learning\C#\Udemy First Course\Polymorphism\obj\Debug\Polymorphism.c
 E:\Projects\Learning\C#\Udemy First Course\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
 E:\Projects\Learning\C#\Udemy First Course\Polymorphism\obj\Debug\Polymorphism.exe
 E:\Projects\Learning\C#\Udemy First Course\Polymorphism\obj\Debug\Polymorphism.pdb
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\obj\Debug\Polymorphism.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\obj\Debug\Polymorphism.exe
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\obj\Debug\Polymorphism.pdb
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\bin\Debug\Polymorphism.exe.config
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\bin\Debug\Polymorphism.exe
+E:\Projects\Learning\C#\Udemy First Course\Interfaces\bin\Debug\Polymorphism.pdb
