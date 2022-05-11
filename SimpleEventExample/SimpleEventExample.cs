@@ -17,9 +17,9 @@ namespace SimpleEventExample
             InitializeComponent();
         }
 
-        private void clickButton_Click(object sender, EventArgs e)
+        private void passwordButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Was Clicked");
+            label1.Text = passwordText.Text;
         }
     }
 }
