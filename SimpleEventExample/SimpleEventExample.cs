@@ -12,19 +12,17 @@ namespace SimpleEventExample
 {
     public partial class SimpleEventExample : Form
     {
+        private int imageNumber { get; set; } = 0;
         public SimpleEventExample()
         {
             InitializeComponent();
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-           label1.Font = new Font(label1.Font, label1.Font.Style ^ FontStyle.Bold);
-        }
-                                                                         
-        private void checkBox2_CheckedChanged(object sender, EventArgs e)
-        {
-            label1.Font = new Font(label1.Font, label1.Font.Style ^ FontStyle.Italic);
+            imageNumber %= 3; 
+
+           pictureBox1.Image = (Image)(Properties.Resources.ResourceManager.GetObject($"image{++imageNumber}"));
         }
     }
 }
