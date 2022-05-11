@@ -1,0 +1,11 @@
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.AssemblyReference.cache
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.SuggestedBindingRedirects.cache
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.SimpleEventExample.resources
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.Properties.Resources.resources
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.GenerateResource.cache
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.csproj.CoreCompileInputs.cache
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\bin\Debug\SimpleEventExample.exe.config
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\bin\Debug\SimpleEventExample.exe
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\bin\Debug\SimpleEventExample.pdb
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.exe
+E:\Projects\Learning\C#\Udemy First Course\SimpleEventExample\obj\Debug\SimpleEventExample.pdb
